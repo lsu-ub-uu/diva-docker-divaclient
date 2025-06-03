@@ -16,17 +16,17 @@
     <name>DiVA Client Docker</name>
 
     <properties>
-        <outputDirectory>${project.build.directory}/docker2</outputDirectory>
+        <outputDirectory>${project.build.directory}/docker</outputDirectory>
         <exec-maven-plugin.version>3.1.0</exec-maven-plugin.version>
         <diva-client.version>1.24-SNAPSHOT</diva-client.version>
     </properties>
 
-   <!--  <scm>
-        <connection>scm:git:https://github.com/lsu-ub-uu/diva-react-spa-bff-docker.git</connection>
-        <developerConnection>scm:git:https://github.com/lsu-ub-uu/diva-react-spa-bff-docker.git</developerConnection>
-        <url>https://github.com/lsu-ub-uu/diva-react-spa-bff-docker.git</url>
+    <scm>
+        <connection>scm:git:https://github.com/lsu-ub-uu/diva-client-docker.git</connection>
+        <developerConnection>scm:git:https://github.com/lsu-ub-uu/diva-client-docker.git</developerConnection>
+        <url>https://github.com/lsu-ub-uu/diva-client-docker.git</url>
         <tag>HEAD</tag>
-    </scm> -->
+    </scm> 
 
     <dependencies>
         <dependency>
