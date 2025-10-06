@@ -14,8 +14,8 @@
     <name>DiVA Client Docker</name>
 
     <properties>
-        <exec-maven-plugin.version>3.6.0</exec-maven-plugin.version>
-        <diva-client.version>1.83.0</diva-client.version>
+        <exec-maven-plugin.version>3.6.1</exec-maven-plugin.version>
+        <diva-client.version>1.84.0</diva-client.version>
     </properties>
 
     <scm>
