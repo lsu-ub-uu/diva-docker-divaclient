@@ -15,7 +15,7 @@
 
     <properties>
         <exec-maven-plugin.version>3.6.2</exec-maven-plugin.version>
-        <diva-client.version>1.104.0</diva-client.version>
+        <diva-client.version>1.105.0</diva-client.version>
     </properties>
 
     <scm>
