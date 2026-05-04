@@ -1,4 +1,4 @@
-FROM node:22.14.0-slim
+FROM node:25.9.0-bookworm-slim
 
 WORKDIR /usr/divaclient
 
